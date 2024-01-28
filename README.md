@@ -16,10 +16,10 @@ The text analyzer is an online tool designed to comprehensively analyze web cont
 **Deployment Link**:https://text-analyzer-54627.web.app<br><br>
 **github project Link**:https://github.com/satya-durga/text-analyzer_assignment<br>
 
-**ON CLICKING WORD INPUT FIELD**
+**ON CLICKING WORD**
 <br><br>![image](https://github.com/satya-durga/text-analyzer_assignment/assets/139617897/a160a6c2-ce9b-435a-ac1a-247e8398cd91)
 
-**ON CLICKING PARAGRAPH INPUT FIELD**
+**ON CLICKING PARAGRAPH**
 <br><br>![image](https://github.com/satya-durga/text-analyzer_assignment/assets/139617897/eca2f93c-9d1c-4a17-a946-682c502f5b78)
 
 **Functionality Overview:**
