@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+**Title:Text Analyzer**
+The text analyzer is an online tool designed to comprehensively analyze web content or any text-based input. It offers various functionalities aimed at providing detailed insights into the structure and characteristics of the text. Let's delve into each of its key features:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Word Count:** The text analyzer calculates the total number of words present in the provided text. This metric is useful for understanding the overall length and complexity of the content.
 
-## Available Scripts
+**Character Count:** It determines the total number of characters, including letters, numbers, symbols, and spaces, within the text. This feature helps users gauge the text's length and identify any limitations or requirements based on character constraints.
 
-In the project directory, you can run:
+**Space Count:** This functionality tallies the number of spaces present in the text. Spaces play a crucial role in formatting and readability, and their count offers insights into text structure and formatting.
 
-### `npm start`
+**Sentence Count:** The text analyzer identifies and counts the total number of sentences within the input text. Understanding the sentence count aids in assessing the text's organization and readability, especially in determining the average sentence length.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Paragraph Count:** It determines the number of paragraphs in the text. Paragraphs serve as units of organization, conveying distinct ideas or themes. The paragraph count offers insights into the text's structure and helps assess its coherence and flow.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Punctuation Count:** This feature calculates the total number of punctuation marks, such as periods, commas, exclamation marks, question marks, and others, used throughout the text. Punctuation enhances readability, conveys tone, and indicates sentence structure.
 
-### `npm test`
+**Deployment Link**:https://text-analyzer-54627.web.app
+**github project Link**:https://github.com/satya-durga/text-analyzer_assignment
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/satya-durga/text-analyzer_assignment/assets/139617897/a160a6c2-ce9b-435a-ac1a-247e8398cd91)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
