@@ -1,5 +1,5 @@
-<h3>**Title:</h3><h2>Text Analyzer**</h2>
-The text analyzer is an online tool designed to comprehensively analyze web content or any text-based input. It offers various functionalities aimed at providing detailed insights into the structure and characteristics of the text. Let's delve into each of its key features:
+<h3>Title:Text Analyzer</h3>
+The text analyzer is an online tool designed to comprehensively analyze web content or any text-based input. It offers various functionalities aimed at providing detailed insights into the structure and characteristics of the text. Let's delve into each of its key features:<br>
 
 **Word Count:** The text analyzer calculates the total number of words present in the provided text. This metric is useful for understanding the overall length and complexity of the content.
 
@@ -16,13 +16,13 @@ The text analyzer is an online tool designed to comprehensively analyze web cont
 **Deployment Link**:https://text-analyzer-54627.web.app<br><br>
 **github project Link**:https://github.com/satya-durga/text-analyzer_assignment<br>
 
-<u>**ON CLICKING WORD INPUT FIELD**<br></u>
+**ON CLICKING WORD INPUT FIELD**<br>
 ![image](https://github.com/satya-durga/text-analyzer_assignment/assets/139617897/a160a6c2-ce9b-435a-ac1a-247e8398cd91)
 
-<u>**ON CLICKING PARAGRAPH INPUT FIELD**<br></u>
+<**ON CLICKING PARAGRAPH INPUT FIELD**<br>
 ![image](https://github.com/satya-durga/text-analyzer_assignment/assets/139617897/eca2f93c-9d1c-4a17-a946-682c502f5b78)
 
-<u>**Functionality Overview:**</u>
+**Functionality Overview:**
 
 <li>The tool operates automatically upon data entry.</li>
 <li>Provides real-time updates for all metrics.</li>
